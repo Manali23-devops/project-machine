@@ -10,7 +10,7 @@ resource "azurerm_resource_group" "machine1" {
   
 }
 
-resource "azurerm_resource_group" "machine1" {
+resource "azurerm_resource_group" "machine2" {
     name = "machine2"
     location = "east us"
   
